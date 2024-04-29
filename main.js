@@ -1,2 +1,4 @@
 //gergo
 //piros 
+// gergo
+// zöld
